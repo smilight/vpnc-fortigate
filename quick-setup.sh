@@ -9,7 +9,7 @@ else
   exit 1;
 fi
 
-git clone git@github.com:hekar/vpnc-fortisgate.git
+git clone git@github.com:smilight/vpnc-fortigate.git
 cd vpnc-fortisgate/vpnc
 make
 cd ..
